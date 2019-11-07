@@ -7,7 +7,7 @@ switch(window.location.hostname) {
         APIURL = 'http://localhost:3000'
         break;
     //Deployed version of React App
-    case 'kerv-doggo-client.herokuapp.com':
+    case 'kr-doggo-client.herokuapp.com':
     //Full URL of deployed API 
     APIURL = 'https://kerv-doggo-server.herokuapp.com';
 }
